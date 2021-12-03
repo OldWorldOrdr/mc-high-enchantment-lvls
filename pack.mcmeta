@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 8,
+		"description": [{"text":"Better handling of high level enchantments up to 255"}]
+	}
+}
